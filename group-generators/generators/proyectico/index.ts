@@ -17,6 +17,7 @@ const generator: GroupGenerator = {
     
     const jsonListData0 = {
       "0x4AD6A33069732CAf3E20A0e44B306F7eB4e4be79": "1",
+      "github:Anthony-2003": "2",
     };
 
     return [
